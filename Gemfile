@@ -1,9 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'devise'
-gem 'omniauth'
-gem 'omniauth-oauth2'
-gem 'rest-client'
+gem 'oauth2'
 gem 'dotenv-rails'
 gem 'rb-readline'
 gem 'therubyracer'
